@@ -1,0 +1,8 @@
+conv
+filter
+activation
+max pool
+flatten
+dense
+activation
+output layer
